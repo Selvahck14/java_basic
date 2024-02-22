@@ -14,10 +14,8 @@ public class statement1 {
 		{
 			System.out.println("Eligible to vote");
 		}
-		else
-		{
-			System.out.println("Not Eligible");
-		}
+
+		 		
 
 	}
 
